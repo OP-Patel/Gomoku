@@ -34,7 +34,7 @@ This project interfaces a PS/2 keyboard with a VGA display to play a Gomoku-like
   - Contain the pixel data for background and game-over screens or other objects.
 
 ## Block Diagrams
-Block diagrams for **`gomoku_mem.v`**, **`PS2_WASD.v`**, the main-game FSM found within **`vga_demo.v`**, and a high-level project block diagram can be found [**here**](https://docs.google.com/document/d/16CnQp3Ij9zuvQUb1nEHMCtwqfIvziVVkCQLgNkoHS74/edit?usp=sharing)!. 
+Block diagrams for **`gomoku_mem.v`**, **`PS2_WASD.v`**, the main-game FSM found within **`vga_demo.v`**, and a high-level project block diagram can be found [**here**](https://docs.google.com/document/d/16CnQp3Ij9zuvQUb1nEHMCtwqfIvziVVkCQLgNkoHS74/edit?usp=sharing)! 
 
 
 ## Getting Started
